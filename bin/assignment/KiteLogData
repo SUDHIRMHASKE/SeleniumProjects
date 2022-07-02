@@ -1,0 +1,18 @@
+URL=https://kite.zerodha.com/
+
+username=CKD222
+password=12345678
+pin=123456
+
+username1=CKD222
+Password1=12312312
+
+username2=CKD321
+Passoword2=12345678
+
+Warning1=Invalid username or password.
+userwarning=User ID should be minimum 6 characters.
+pwdwarning=Password should be minimum 6 characters.
+
+
+
